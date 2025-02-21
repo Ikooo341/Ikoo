@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DAVAO UKAY UKAY BODEGA</title>
+    <title>DAVAO UKAY UKAY BODEGAA</title>
 </head>
 <body>
     <h1>DAVAO UKAY UKAY BODEGA OFFICIAL WEBSITE</h1>
