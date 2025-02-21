@@ -1,12 +1,12 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Investment Website</title>
+    <title>DAVAO UKAY UKAY BODEGA</title>
 </head>
 <body>
-    <h1>Welcome to the Investment Platform</h1>
+    <h1>DAVAO UKAY UKAY BODEGA OFFICIAL WEBSITE</h1>
     <div>
         <h2>Register</h2>
         <input type="text" id="reg-name" placeholder="Name">
